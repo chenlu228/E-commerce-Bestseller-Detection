@@ -1,0 +1,27 @@
+# Python virtual environment
+*.pyc
+__pycache__/
+*.pyo
+.env
+*.env
+
+# IDE files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Data files
+data/
+*.csv
+*.xlsx
+*.json
+
+# Model files
+model/
+*.h5
+*.pkl
+
+# Log files
+logs/
+*.log
